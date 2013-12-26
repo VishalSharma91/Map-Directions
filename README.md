@@ -12,4 +12,4 @@ Steps to Use this Project:
 3) Copy paste two delegate methods of MapView written in ViewController.m. 
  You are done. Direction will be drawn between your specified points. 
  
- Contact at vishi9273@gmail.com.
+ Contact at vishi9273@gmail.com regarding any help about this project.
